@@ -1,0 +1,9 @@
+Two Pointer Problems: https://lnkd.in/dK_fB-Eg
+2. Backtracking Pattern: https://lnkd.in/dDGsdfps
+3. Dynamic Programming Patterns: https://lnkd.in/dX7a4cau
+4. Dynamic Programming Patterns 2: https://lnkd.in/db2tAp27
+5. Binary Search: https://lnkd.in/dxk7kdeb
+6. Backtracking questions: https://lnkd.in/drsHxsZh
+7. Binary Tree Traversal & Views: https://lnkd.in/dxGcKx65
+8. Graphs [Problems | Pattern | Sample Solutions]: https://lnkd.in/dkpyiB3R
+9. Patterns for Bits Manipulations: https://lnkd.in/d-rfVNx2
